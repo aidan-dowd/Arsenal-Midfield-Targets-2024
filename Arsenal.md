@@ -156,7 +156,7 @@ to get on the ball. He is a master at progressing the ball forward,
 either by dribbling or passing.
 
 <center>
-![](Joao/JN%20passing.gif)
+![](Joao/JN%20Passing.gif)
 </center>
 
   
